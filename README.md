@@ -1,2 +1,2 @@
 # MorphKeys
-MorphKeys is a simple process converting a specified keyboard input to an expected output on any machine.
+Simple process taking a keyboard input (from any keyboard layout) and displaying the expected output on any machine (without setting up different languages / keyboard layouts).
